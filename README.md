@@ -11,7 +11,7 @@ Jupyter notebook to analyse Quarter 4 2020 sales data across Australian states a
 
 ## Dataset
 
-**`Sales Analysis4thQrt2020.csv`** (7,560 rows × 6 columns):[file:1]
+**`[Sales Analysis4thQrt2020.csv](https://github.com/JohnBrittoi/AAL_Sales_Analysis_Q42020/tree/main)`** (7,560 rows × 6 columns)
 
 | Column | Description | Key Stats |
 |--------|-------------|-----------|
