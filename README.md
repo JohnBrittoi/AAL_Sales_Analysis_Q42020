@@ -26,10 +26,10 @@ Jupyter notebook to analyse Quarter 4 2020 sales data across Australian states a
 
 ## Features
 
--  Data exploration & cleaning
--  State/Group/Time aggregations  
--  Descriptive statistics
--  Box plots, histograms, bar charts
+- Data exploration & cleaning
+- State/Group/Time aggregations  
+- Descriptive statistics
+- Box plots, histograms, bar charts
 
 ## Requirements
 pandas
@@ -38,10 +38,10 @@ seaborn
 jupyter
 
 ## Key findings
-State: VIC is the highest performing state
-Group: Men is the highest spender
-Time: Evening sessions have more sales
-Month: December had peak sales
+- State: VIC is the highest performing state  
+- Group: Men is the highest spender  
+- Time: Evening sessions have more sales  
+- Month: December had peak sales
 
 ## Acknowledgements
 Purdue University AI ML Online Certification by Simplilearn
